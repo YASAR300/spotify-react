@@ -12,7 +12,7 @@ import bh from './img/gh.png';
 import m from './img/m.png';
 import r from './img/r.png';
 import arr from './img/ar.png';
-import user from './img/user.png';
+import user from './img/User.png';
 import image from './img/image4.png';
 import image1 from './img/image3.png';
 import image2 from './img/image1.png';

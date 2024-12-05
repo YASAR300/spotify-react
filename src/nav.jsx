@@ -1,6 +1,6 @@
 import React from 'react';
 import spot from './img/logo.png';
-import home from './img/home.png';
+import home from './img/Home.png';
 import search from './img/search.png';
 import lib from './img/lib.png';
 import cr from './img/Create.png';
